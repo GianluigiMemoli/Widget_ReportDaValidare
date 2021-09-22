@@ -13,5 +13,14 @@ export const WIDGET_DEFAULT_DIMENSION =  { w: 3, h: 5 };
 export const WIDGET_MAX_DIMENSION =  { w: 6, h: 7 };
 export const WIDGET_MIN_DIMENSION =  { w: 3, h: 5 };
 
+// Widget style
+export const BACKGROUND = "#fff";
+
+// Widget configuration
+export const CONFIGURATION = [];
+
+// Default configuration
+export const DEFAULT_CONFIGURATION = {};
+
 // Author
 export const AUTHOR = "Mario Rossi";
